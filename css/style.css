@@ -1,0 +1,125 @@
+body {
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #333;
+}
+
+.container {
+    margin: 0 32px;
+}
+
+.section-title {
+    text-align: center;
+    padding: 64px 0;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/* -------------------------*/
+/* -------------------------*/
+header {
+    background: #f59a00;
+    color: #fff;
+    text-align: center;
+    padding-top: 64px;
+}
+
+header h1 {
+    font-weight: bold;
+    font-size: 32px;
+    margin-bottom: 12px;
+}
+
+header img {
+    width: 280px;
+    vertical-align: bottom;
+}
+
+.btn {
+    text-decoration: none;
+    background: #fff;
+    color: #f59a00;
+    display: block;
+    width: 140px;
+    line-height: 44px;
+    margin: 40px auto 48px;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 4px;
+}   
+
+.btn:hover {
+    opacity: .7;
+}
+
+/* -------------------------*/
+/* -------------------------*/
+.features-point {
+    padding: 10px 0;
+    font-weight: bold;
+}
+
+.features img {
+    width: 100%;
+}
+
+.features p {
+    line-height: 1.8;
+}
+
+.features section {
+    padding-bottom: 64px;
+}
+
+/* -------------------------*/
+/* -------------------------*/
+.menbers {
+    background: #f2f2f3;
+}
+
+.menbers ul {
+    text-align: center;
+}
+
+.menbers img {
+    width: 160px;
+    border-radius: 50%;
+}
+
+.menbers h3 {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 12px 0;
+}
+
+.menbers li {
+    padding-bottom: 64px;
+}
+
+/* -------------------------*/
+/* -------------------------*/
+.call-to-action {
+    background: #f59a00;
+    color: #fff;
+    text-align: center;
+    padding: 64px 0;
+}
+
+.call-to-action .section-title {
+    padding: 20px;
+}
+
+.call-to-action .btn {
+    margin: 0 auto;
+}
+
+/* -------------------------*/
+/* -------------------------*/
+footer {
+    padding: 16px;
+    background: #323135;
+    color: #98969c;
+    text-align: center;
+}
+
+/* -------------------------*/
